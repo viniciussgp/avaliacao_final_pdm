@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1022040923927",
+    "firebase_url": "https://avaliacao-ec53d-default-rtdb.firebaseio.com",
+    "project_id": "avaliacao-ec53d",
+    "storage_bucket": "avaliacao-ec53d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022040923927:android:ebd3375825a3550ddce152",
+        "android_client_info": {
+          "package_name": "com.vinicius.avaliacao_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022040923927-4ln4lrhov3c5jq6bkko2t899mdi86cdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbXA9UVdgREmwaRAPBse4o9r2XXqfjVWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022040923927-4ln4lrhov3c5jq6bkko2t899mdi86cdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
